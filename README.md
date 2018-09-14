@@ -1,1 +1,1 @@
-# burger-palace-sequelize
+# burger-palace
